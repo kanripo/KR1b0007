@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書全解
-#+DATE: 2015-09-23 09:35:51
-#+PROPERTY: JUAN 17
+#+DATE: 2015-08-24 22:01:36.552752
+#+PROPERTY: ID KR1b0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十七
 <pb:KR1b0007_WYG_017-1a>¶
 欽定四庫全書¶
 　尚書全解卷十七¶
@@ -452,4 +454,3 @@
 　¶
 　¶
 　尚書全解卷十七¶
-

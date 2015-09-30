@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書全解
-#+DATE: 2015-09-23 09:35:51
-#+PROPERTY: JUAN 36
+#+DATE: 2015-08-24 22:01:37.038567
+#+PROPERTY: ID KR1b0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十六
 <pb:KR1b0007_WYG_036-1a>¶
 欽定四庫全書¶
 　尚書全解卷三十六¶
@@ -974,4 +976,3 @@
 　¶
 　¶
 　尚書全解卷三十六¶
-

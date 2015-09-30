@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書全解
-#+DATE: 2015-09-23 09:35:51
-#+PROPERTY: JUAN 23
+#+DATE: 2015-08-24 22:01:36.682915
+#+PROPERTY: ID KR1b0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十三
 <pb:KR1b0007_WYG_023-1a>¶
 欽定四庫全書¶
 　尚書全解卷二十三¶
@@ -686,4 +688,3 @@
 　稷所以能緜緜延延至於卜世三十卜年七百者其¶
 　源流蓋如此¶
 　尚書全解卷二十三¶
-
